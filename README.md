@@ -45,7 +45,10 @@ Tenho conhecimento prático em infraestrutura em nuvem, desenvolvimento orientad
 ### Visualização:
 ![Plotly](https://img.shields.io/badge/Plotly-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235C7DA2.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
-<div align="center" style="display:none">
-26/06/25
-![](https://komarev.com/ghpvc/?username=williamreis&style=flat)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williamreis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamreis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=williamreis&"  />
+
