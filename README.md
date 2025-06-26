@@ -44,3 +44,5 @@ Tenho conhecimento prático em infraestrutura em nuvem, desenvolvimento orientad
 
 ### Visualização:
 ![Plotly](https://img.shields.io/badge/Plotly-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%235C7DA2.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=williamreis%style=flat)
