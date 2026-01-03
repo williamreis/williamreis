@@ -5,19 +5,20 @@
 </p>
 
 <p align="left">
-Desenvolvedor Backend com sólida experiência em projetos nos setores público, privado e como freelancer. Minha trajetória é marcada pela **versatilidade**, **consistência** e **capacidade de adaptação**, com atuação em desenvolvimento de sistemas robustos, APIs, integrações e automações.
-
-Tenho experiência prática com **infraestrutura em nuvem**, **boas práticas de engenharia de software** (Clean Code, SOLID) e foco contínuo em **escalabilidade**, **segurança** e **performance**. Atualmente, venho expandindo meu escopo técnico com **Inteligência Artificial Generativa**, aplicando **LLMs**, **embeddings**, **RAG (Retrieval-Augmented Generation)** e **engenharia de prompts** para construção de soluções inteligentes.
+Software Engineer and Backend Specialist with solid experience in Python. Currently, my focus is on AI Engineering and Generative AI. I have expertise in building solutions that combine the traditional robustness of the Backend with the innovation of LLM and natural language processing, transforming user interaction through conversational interfaces.
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Google Tools (GCP,Analytics,Optimize,DataStudio and more) , Amazon Tools (AWS and Alexa Skill Console) & jedi light saber</strong>
+Programming languages: Python, PHP & Javascript
 </p>
+
+<p align="left">
+  💼 Tools: <strong>LangChain, LangGraph, LangFuse, LangSmith, Agno, FastAPI</strong>
+</p>
+
 ---
 
-<p align="left">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/williamreis/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wjsreis.dev@gmail.com)
-</p>
 
 
